@@ -3,5 +3,5 @@
 *SAS;
 *comment;
 download("virus")
-scan("Kristin's PC")
+scan("Kristin's PC") # wrong Kristen, nice try
 receive("Blackmail")
