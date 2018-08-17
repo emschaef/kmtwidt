@@ -2,3 +2,6 @@
 #comment
 *SAS;
 *comment;
+download("virus")
+scan("Kristin's PC")
+receive("Blackmail")
